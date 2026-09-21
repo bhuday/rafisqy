@@ -1,0 +1,6 @@
+{
+  "name": "Rafisqy Anime",
+  "description": "Aplikasi streaming anime online lengkap dengan pemutar video, multi-server, sub/dub, auto-skip intro, riwayat tontonan, dan bookmark favorit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

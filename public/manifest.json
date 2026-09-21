@@ -1,0 +1,31 @@
+{
+  "id": "/",
+  "name": "Rafisqy Anime",
+  "short_name": "RafisqyAnime",
+  "theme_color": "#0a0a0a",
+  "background_color": "#0a0a0a",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "description": "Aplikasi streaming anime online lengkap dengan pemutar video, multi-server, sub/dub, auto-skip intro, riwayat tontonan, dan bookmark favorit.",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
